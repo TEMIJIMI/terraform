@@ -1,7 +1,7 @@
 variable "domain_name" {
   description = "my domain name"
   type        = string
-  default     = "temijimi.live"
+  default     = "temijimi.me"
 }
 
 # get the zone id
